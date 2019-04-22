@@ -1,3 +1,5 @@
+import - form 'lodash';
+
 function component() {
   let element = document.createElement('div');
 
